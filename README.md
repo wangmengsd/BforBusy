@@ -1,6 +1,6 @@
 # 多模态知识发现-“爱情神话”案例-众包创作探索
 
-[PPT]([https://github.com/wangmengsd/BforBusy/blob/main/%E4%B8%9C%E5%8D%97%E5%A4%A7%E5%AD%A6%E7%8E%8B%E8%90%8C-%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E5%B7%A5%E5%8E%82%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%8A%A5%E5%91%8A.pdf])
+[PPT][https://github.com/wangmengsd/BforBusy/blob/main/%E4%B8%9C%E5%8D%97%E5%A4%A7%E5%AD%A6%E7%8E%8B%E8%90%8C-%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E5%B7%A5%E5%8E%82%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%8A%A5%E5%91%8A.pdf]
 
 在2022年5月18日受邀请于复旦大学知识工厂实验室报告中，我首先介绍了“爱情神话”中鞋子品牌的实例，这个实例事实上是我近来一直在思考的，
 那就是我们在构建多模态知识图谱的过程中，到底需要抽取什么知识？哪些知识是用户真正感兴趣的？
